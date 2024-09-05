@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    
+}
+nav{ 
+    background-color: black;
+    color: white;
+    height: 5em;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 2em;
+    line-height: 4em;
+    padding: 1em;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#perfil{
+    padding: 4em;
+    text-align: center;
+}
+.fila{
+    padding: 2em;
+}
+.foto{
+    padding-top:2em ;
+    width: 160px;
+    border-radius: 50%;
+}
+.col{
+    display: inline-block;
+    margin: 2em;
+    padding: 1em;
+    vertical-align: top;
+}
+.titulo{
+    font-size: 2em;
+    text-align: center;
+}
+#caracteristicas{
+    background-color: rgb(172, 168, 168);
+}
+.logo1{
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+}
+.logo2{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.logo3{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.col2{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 2em;
+    margin: 2em;
+}
+.col1{
+    width: 55%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 2em;
+}
+.col3{
+    width: 25%;
+    vertical-align: top;
+    display: inline-block;
+    margin: 1em;
+    padding: 2em;
+    text-align: center;
+}
+#programas{
+    background-color: rgb(237, 245, 245);
+}
+
+
+
